@@ -10,31 +10,24 @@
 
 
 ## General Information
-- This a clone of a website page
-- This cloned page demonstrates the use of HTML file, CSS rules, JavaScript DOM Manipulation Project and include ES6 + Arrow 
-functions
+- This a twitter bot that retweets the hashtag 'oldclothes', the bot retweets are limited to 100 tweets a day.
 - This is a project from Girlcode as part of our assignment collecton.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Languages Used
-- HTML
-- Javascript
-- CSS
+- Python
 
 
 ## Features
 List the ready features here:
-- One page site
+- retweeting twitter bot 
 
 
 <!-- If you have screenshots you'd like to share, include them here. -->
 
-
 ## Usage
-The website where this site is cloned from is originally used to show the underwater experience that is given to clients
-- This clone is a one page site to copy how the site looks.
-
+- This robot is hosted on twitter and retweets.
 
 
 
@@ -43,11 +36,10 @@ Project is: _no longer being worked on_. As it has already been submitted.
 
 
 ## Room for Improvement
-Include the correct export and import of module to entry/ external file
+- The bot is prone to hacking
 
 
 ## Acknowledgements
-Give credit here.
 - This project was inspired by Girlcode 
 - Many thanks to our Girlcode instructor
 
